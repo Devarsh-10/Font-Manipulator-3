@@ -1,0 +1,44 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(192, 255, 206);
+    color: darkgreen;
+    text-align: center;
+    line-height: 3;
+}
+
+.head
+{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+canvas
+{
+    border: 5px dashed red;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px lightpink;
+}
